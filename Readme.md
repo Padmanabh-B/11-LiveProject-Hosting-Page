@@ -31,3 +31,4 @@ and this is responsive for mobile screens and laptop screens
 
 
 ## Deployed Link
+[Hosting Page](https://hosting-ui-page.netlify.app/)
